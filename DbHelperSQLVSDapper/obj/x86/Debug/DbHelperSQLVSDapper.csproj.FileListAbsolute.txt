@@ -1,0 +1,10 @@
+E:\NetProject\DbHelperSQLVSDapper\DbHelperSQLVSDapper\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NetProject\DbHelperSQLVSDapper\DbHelperSQLVSDapper\bin\Debug\DbHelperSQLVSDapper.exe
+E:\NetProject\DbHelperSQLVSDapper\DbHelperSQLVSDapper\bin\Debug\DbHelperSQLVSDapper.pdb
+E:\NetProject\DbHelperSQLVSDapper\DbHelperSQLVSDapper\obj\x86\Debug\DbHelperSQLVSDapper.exe
+E:\NetProject\DbHelperSQLVSDapper\DbHelperSQLVSDapper\obj\x86\Debug\DbHelperSQLVSDapper.pdb
+D:\Documents\Downloads\DbHelperSQLVSDapper\DbHelperSQLVSDapper\obj\x86\Debug\DbHelperSQLVSDapper.exe
+D:\Documents\Downloads\DbHelperSQLVSDapper\DbHelperSQLVSDapper\obj\x86\Debug\DbHelperSQLVSDapper.pdb
+D:\Documents\Downloads\DbHelperSQLVSDapper\DbHelperSQLVSDapper\bin\Debug\DbHelperSQLVSDapper.exe
+D:\Documents\Downloads\DbHelperSQLVSDapper\DbHelperSQLVSDapper\bin\Debug\DbHelperSQLVSDapper.pdb
+D:\Documents\Downloads\DbHelperSQLVSDapper\DbHelperSQLVSDapper\obj\x86\Debug\DbHelperSQLVSDapper.csprojResolveAssemblyReference.cache
