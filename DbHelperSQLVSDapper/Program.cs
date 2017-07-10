@@ -78,7 +78,8 @@ namespace DbHelperSQLVSDapper
             sw.Start();
            SqlMapperUtil.SqlWithParams<Customer>(SqlHelper.ReadStatement, null,SqlHelper.ConnectionString);
            
-            sw.Stop(); 
+            sw.Stop();
+
             Console.WriteLine("Dapper选取前500条记录耗时(毫秒):  " + sw.ElapsedMilliseconds);
         }
     }
